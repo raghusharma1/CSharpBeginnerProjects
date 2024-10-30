@@ -25,6 +25,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LunarDoggo.Datastructures",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LunarDoggo.Algorithms", "Algorithms\LunarDoggo.Algorithms.csproj", "{AA6715E0-5EA1-4D3A-A8D9-CCBA35B43965}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunarDoggo.Algorithms.Graphs.Pathfinding.Run", "Algorithms.Test\LunarDoggo.Algorithms.Graphs.Pathfinding.Run\LunarDoggo.Algorithms.Graphs.Pathfinding.Run.csproj", "{C1B68A91-9296-4361-8D38-DE348A5608FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunarDoggo.Algorithms.Sorting.Sort", "Algorithms.Test\LunarDoggo.Algorithms.Sorting.Sort\LunarDoggo.Algorithms.Sorting.Sort.csproj", "{5D189AEB-7197-4C5F-9E76-F50A141CB327}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +63,14 @@ Global
 		{AA6715E0-5EA1-4D3A-A8D9-CCBA35B43965}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA6715E0-5EA1-4D3A-A8D9-CCBA35B43965}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA6715E0-5EA1-4D3A-A8D9-CCBA35B43965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B68A91-9296-4361-8D38-DE348A5608FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B68A91-9296-4361-8D38-DE348A5608FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B68A91-9296-4361-8D38-DE348A5608FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B68A91-9296-4361-8D38-DE348A5608FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D189AEB-7197-4C5F-9E76-F50A141CB327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D189AEB-7197-4C5F-9E76-F50A141CB327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D189AEB-7197-4C5F-9E76-F50A141CB327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D189AEB-7197-4C5F-9E76-F50A141CB327}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
